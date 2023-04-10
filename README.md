@@ -30,7 +30,7 @@ persistente avanzada) de otro llevado a cabo por ciberdelincuentes o hacktivista
 permaneciendo activo y oculto durante mucho tiempo, utilizando diferentes formas de
 ataque. Suelen estar patrocinados por compañías, mafias o un Estado. El objetivo
 principal es vigilar, filtrar datos o modificar los recursos de una empresa u organización
-de forma integrada y continuada en el tiempo. Generalmente, este tipo de <b>malware<b/> hace
+de forma integrada y continuada en el tiempo. Generalmente, este tipo de <b>malware</b> hace
 uso de <b>exploits</b> aprovechando vulnerabilidades de tipo <b>Zero Day</b> presentes en el software
 de la víctima.</p>
 
@@ -185,9 +185,11 @@ programas que instalemos.</p>
 control para proporcionar datos a los operadores con el fin de supervisar, controlar y
 gestionar procesos </p>
 
+
 <h3>SYN flood (Inundación SYN o Ataque de Medio Abierto)</h3>
 <p>1._Ataque de denegación de servicio por el que se inunda un sistema de peticiones de conexión TCP syn (synchronize o
 sincronización) a un anfitrión con la intención de interrumpir su operación</p>
+
 
 <h3>Trojan Horse</h3>
 <p>1._Programa que no se replica ni hace copias de sí mismo. Su apariencia es la de un
@@ -195,16 +197,65 @@ programa útil o inocente, pero en realidad tiene propósitos dañinos y potenci
 veces explotando las autorizaciones legítimas de una entidad del sistema que invoca el programa, también permitir
 intrusiones, borrar datos, </p>
 
+
 <h3>Tunelización de DNS </h3>
-<p>1._</p>
+<p>1._Los ciberdelincuentes utilizan el túnel de DNS, un protocolo transaccional, para intercambiar
+datos de aplicaciones, como extraer datos de forma silenciosa o establecer un canal de
+comunicación con un servidor desconocido, como un intercambio de comando y control.</p>
 
 
-<h3></h3>
-<p>1._</p>
+<h3>Virus</h3>
+<p>1._Un programa de computadora que puede copiarse a sí mismo e infectar una computadora
+sin permiso o conocimiento del usuario. Un virus puede corromper o eliminar datos en
+una computadora, usar programas de correo electrónico para propagarse a otras
+computadoras o incluso borrar todo en un disco duro</p>
 
 
-<h3></h3>
-<p>1._</p>
+<h3>Vulnerabilidad</h3>
+<p>1._Debilidad en un sistema de información, procedimientos de seguridad del sistema,
+controles internos o implementación que podría ser aprovechada por una amenaza. Existencia de una falla (o "bug") 
+en el software que puede permitir que un tercero o un programa obtenga acceso no autorizado a la falla y la explote</p>
+
+<h3>XSS (cross-site scripting) (Ataque de secuencias de comandos entre sitios).</h3>
+<p>1._Los ataques XSS insertan código malicioso en un sitio web legítimo o en un script de
+aplicación para obtener información del usuario, a menudo utilizando recursos web de terceros.</p>
+<p>2._ En un ataque por XSS, una aplicación web se envía con un script que se activa cuando lo lee el navegador de un usuario o una
+aplicación vulnerable. Dado que los sitios dinámicos dependen de la interacción del
+usuario, es posible ingresar un script malicioso en la página, ocultándolo entre solicitudes
+legítimas. Los puntos de entrada comunes incluyen buscadores, foros, blogs y todo tipo
+de formularios en línea en general. Una vez iniciado el XSS, el atacante puede cambiar
+configuraciones de usuarios, secuestrar cuentas, envenenar cookies, exponer conexiones
+SSL, acceder sitios restringidos y hasta instalar publicidad en el sitio víctima.</p>
+
+<h3>Watering hole attack (Ataque de Abrevadero).</h3>
+<p>1._Estrategia de ataque informático. El atacante quiere atacar a un grupo en particular
+(organización, sector o región). El ataque consiste en tres fases: 1. Adivinar (u observar)
+los sitios web que el grupo utiliza a menudo. 2. Infectar uno o más de estos sitios web con
+malware. 3. Con el tiempo, algunos miembros del grupo objetivo se infectarán. Esta
+estrategia basa su eficacia en la confianza que el grupo ha depositado en las páginas web
+que sus miembros visitan con asiduidad. Es eficaz incluso con grupos concienciados que
+son resistentes a spear phishing y otras formas de <b>phishing</b></p>
+
+<h3>Worm (Gusano)</h3>
+<p>1._Un programa autorreplicante, de autopropagación e independiente que utiliza mecanismos
+de la red para propagarse. Es un programa malicioso (o malware) que tiene como característica principal su alto
+grado de “dispersabilidad”, es decir, lo rápidamente que se propaga. Mientras que los
+troyanos dependen de que un usuario acceda a una web maliciosa o ejecute un fichero
+infectado, los gusanos realizan copias de sí mismos, infectan a otros ordenadores y se
+propagan automáticamente en una red independientemente de la acción humana. </p>
+
+<h3>Web Bug</h3>
+<p>1._. Código malicioso, invisible para un usuario, colocado en
+sitios web de tal manera que permite a terceros rastrear el uso de servidores web y recopilar
+información sobre el usuario, incluida la dirección del IP (Protocolo de Internet), el nombre del
+anfitrión, el tipo y la versión del navegador, nombre y versión del sistema operativo, y el historial
+de cookies del navegador web</p>
+
+<h3>Zero days attack (Ataque de Día Cero).</h3>
+<p>1._Malware diseñado para explotar un agujero de seguridad recién descubierto, desconocido
+por el desarrollador de software. "Día cero" se refiere a la cantidad de tiempo que tiene un
+desarrollador entre el conocimiento de un agujero de seguridad y el momento en que se
+hace público o cuando los hackers de sombrero negro se enteran e intentan usar el agujero de seguridad para fines ilegítimos</p>
 
 <h3></h3>
 <p>1._</p>
