@@ -151,6 +151,12 @@ las credenciales de los usuarios o datos confidenciales como números de tarjeta
 Los estafadores envían correos electrónicos a los usuarios o mensajes de servicio de mensajes cortos (SMS), 
 comúnmente conocidos como mensajes de texto, diseñados para que parezca que provienen de una fuente legítima, por
 medio de hipervínculos falsos.</p>
+<p>&nbsp&nbsp1.2._El Smishing ocurre cuando se recibe un mensaje de texto corto 
+(SMS) al teléfono celular, por medio del cual se solicita al usuario 
+llamar a un número de teléfono o ir a un sitio web.</p>
+<p>&nbsp&nbsp1.3._El Vishing es la estafa que se produce mediante una llamada 
+telefónica que busca engañar, suplantando la identidad de una persona o entidad para solicitar información privada o realizar 
+alguna acción en contra de la víctima.</p>
 
 
 <h3>Ransomware (Malware de Rescate)</h3>
